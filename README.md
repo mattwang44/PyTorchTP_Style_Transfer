@@ -1,4 +1,4 @@
-# PyTorch Taipei week 11 -- Neural Style Transfer
+# PyTorch Taipei week 10 -- Neural Style Transfer
 
 Here are 3 tutorial repo of style transfer based on the [paper](https://arxiv.org/abs/1508.06576). 
 
