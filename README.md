@@ -4,7 +4,7 @@ Here are 3 tutorial repo of style transfer based on the [paper](https://arxiv.or
 
 ## DLAI-tf
 
-This is the assignment of Deep Learning Specialization held by [Deeplearning.ai](https://www.deeplearning.ai). Please save pretrained model [here](https://drive.google.com/open?id=10zhR-dF3JoST-jEGLkqRoasZ6kx6Y0G6) and saved in the "pretrained-model" folder.
+This is the assignment of Deep Learning Specialization held by [Deeplearning.ai](https://www.deeplearning.ai). Please download pretrained model [here](https://drive.google.com/open?id=10zhR-dF3JoST-jEGLkqRoasZ6kx6Y0G6) and saved in the "pretrained-model" folder.
 
 ## PytorchNeuralStyleTransfer
 
